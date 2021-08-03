@@ -4,15 +4,5 @@
 - 📫 How to reach me mirza.sahb444@gmail.com
 
 Languages and Tools:
-
--> Html
--> CSS
--> JAVASCRIPT
--> React js
--> Flutter
--> Dart
--> Node js
--> Express js
--> Firebase
--> MongoDB
+Html, Css, Javascipt, React js, Flutter, Dart, Node js, Express js, Firebase, MongoDB, MySql
 
