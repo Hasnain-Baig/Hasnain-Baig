@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hasnain-Baig 
 - 👀 I’m interested in Web and Mobile Application Development
 - 🌱 I’m currently learning Flutter
+- 🌱 I have also worked with MERN Technology to create Web Applications.
 - 📫 How to reach me mirza.sahb444@gmail.com
 
 Languages and Tools:
